@@ -1,7 +1,5 @@
 #include <type_traits>
 
-typedef long long int int64;
-
 namespace maybe
 {
 
