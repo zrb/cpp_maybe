@@ -1,0 +1,5 @@
+An attempt at providing Haskell style Maybe datatype and allow for chaining
+functions.  Here is the relevant stackoverflow.com question, which is really my
+first swipe at this problem.
+
+http://stackoverflow.com/questions/7690864/haskell-style-maybe-type-chaining-in-c11
